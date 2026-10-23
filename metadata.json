@@ -1,0 +1,6 @@
+{
+  "name": "ReplyPilot AI",
+  "description": "Mobile-first conversation analyzer, AI reply strategist, Next Best Action planner, Message Builder, and CRM contact manager.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
